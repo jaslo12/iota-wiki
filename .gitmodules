@@ -45,7 +45,7 @@
 [submodule "content/build/chronicle/production"]
 	path = content/build/chronicle/production
 	url = https://github.com/iotaledger/chronicle.rs
-  branch = main
+  	branch = main
 [submodule "content/build/identity.rs/v0.6.0"]
 	path = content/build/identity.rs/v0.6.0
 	url = https://github.com/iotaledger/identity.rs
@@ -58,3 +58,7 @@
 	path = content/build/introduction-docs/production
 	url = https://github.com/iotaledger/introduction-docs
 	branch = main
+[submodule "content/build/cli-wallet/develop"]
+	path = content/build/cli-wallet/develop
+	url = https://github.com/iotaledger/cli-wallet
+	branch = develop
