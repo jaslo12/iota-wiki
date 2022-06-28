@@ -122,7 +122,7 @@ The IOTA discord server uses the [Dyno-bot](https://dyno.gg/). This bot is a ben
 
 A custom command message can be initiated by using the `!` sign directly followed by the `command text.`
 
-Here is the list of currently availeable commands:
+Here is the list of currently available commands:
 
 - `!banhammered`
   - http://i0.kym-cdn.com/photos/images/newsfeed/000/024/724/ban_hammer.jpg
