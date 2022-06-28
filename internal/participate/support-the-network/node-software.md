@@ -62,7 +62,7 @@ The full documentation and the source code for Bee can be found here:
 
 GoShimmer is a prototype node software exploring the implementation of IOTA 2.0. It is a research and engineering project from the IOTA Foundation seeking to evaluate Coordicide concepts by implementing them in a node software.
 
-Due to the prototypical nature of the project, things written today may reflect how things are tomorrow.
+Due to the prototypical nature of the project, things written today may not reflect how things are tomorrow.
 
 The software is written in Go and is currently the software used in the IOTA 2.0 DevNet where the upcoming IOTA 2.0 version without a coordinator node is tested and optimized in collaboration with a huge amount of community contributors. GoShimmer allows testing and analyzing all upcoming features of IOTA and is therefore an essential part of the ongoing IOTA Research.
 
